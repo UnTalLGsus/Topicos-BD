@@ -13,7 +13,7 @@ For this school project, a online store website has been created that is connect
 <p align="center">
 <img src="PAGINA WEB/img/logo.png"
 	alt="JAJALAM logo"
-	width="200"
+	width="500"
 	style="float: left; margin-right: 10px;" />
 </p>
 
