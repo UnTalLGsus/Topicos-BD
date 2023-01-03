@@ -11,9 +11,18 @@ For this school project, a online store website has been created that is connect
 
 ES
 
+# JAJALAM
+<p align="center">
+<img src="PAGINA WEB/img/logo.png"
+	alt="JAJALAM logo"
+	width="200"
+	style="float: left; margin-right: 10px;" />
+</p>
+
 Para utilizar los archivos de una página web es necesario seguir los siguientes pasos:
 
 - Descargar o clonar el repositorio de la página web. Esto puede hacerse a través de la consola de Git o simplemente descargando el archivo comprimido desde la página del repositorio.
 - Descomprimir el archivo en una carpeta en el ordenador.
 - Abrir la carpeta donde se descomprimió el archivo. En ella se encontrarán todos los archivos necesarios para la página web, como imágenes, hojas de estilo, archivos de JavaScript y otros.
 - Abrir el archivo "index.php", ubicado en la carpeta "PAGINA WEB", en un navegador web, como Safari, Chrome, etc.
+
