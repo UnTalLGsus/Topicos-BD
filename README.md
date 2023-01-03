@@ -17,6 +17,82 @@ For this school project, a online store website has been created that is connect
 	style="float: left; margin-right: 10px;" />
 </p>
 
+## Requerimientos
+### ES
+
+Para crear nuestra base de datos federada entre MySQL y SQL Server, es necesario seguir los siguientes pasos:
+
+- Asegurarse de que ambos servidores estén configurados y en funcionamiento correctamente.
+- En el servidor MySQL, crear un usuario y concederle los permisos necesarios para acceder a la base de datos que se desea federar.
+- En el servidor SQL Server, crear un usuario y concederle los permisos necesarios para acceder a la base de datos que se desea federar.
+- En el servidor MySQL, crear una base de datos federada usando la siguiente sintaxis:
+```
+CREATE SERVER fed_server
+FOREIGN DATA WRAPPER mysql
+OPTIONS (HOST 'host_name', DATABASE 'database_name', USER 'user_name', PASSWORD 'password');
+```
+- En el servidor MySQL, crear una tabla federada usando la siguiente sintaxis:
+```
+CREATE TABLE federated_table (
+  column1 datatype,
+  column2 datatype,
+  ...
+) ENGINE=FEDERATED
+CONNECTION='mysql://user_name:password@host_name:port/database_name/table_name';
+
+```
+- En el servidor SQL Server, crear una tabla federada usando la siguiente sintaxis:
+```
+CREATE TABLE federated_table (
+  column1 datatype,
+  column2 datatype,
+  ...
+) ENGINE=FEDERATED
+CONNECTION='mysql://user_name:password@host_name:port/database_name/table_name';
+
+```
+- Una vez creadas las tablas federadas en ambos servidores, se pueden realizar consultas a través de ambas bases de datos como si fueran una sola.
+Es importante tener en cuenta que la creación de una base de datos federada requiere un conocimiento avanzado de SQL y la configuración de servidores. Si no está familiarizado con estos temas, es recomendable consultar con un experto o un profesional calificado.
+
+## Requirements
+### EN
+
+To create our federated database between MySQL and SQL Server, it is necessary to follow the following steps:
+
+- Ensure that both servers are configured and functioning correctly.
+- On the MySQL server, create a user and grant them the necessary permissions to access the database you wish to federate.
+- On the SQL Server, create a user and grant them the necessary permissions to access the database you wish to federate.
+- On the MySQL server, create a federated database using the following syntax:
+```
+CREATE SERVER fed_server
+FOREIGN DATA WRAPPER mysql
+OPTIONS (HOST 'host_name', DATABASE 'database_name', USER 'user_name', PASSWORD 'password');
+```
+- On the MySQL server, create a federated table using the following syntax:
+```
+CREATE TABLE federated_table (
+  column1 datatype,
+  column2 datatype,
+  ...
+) ENGINE=FEDERATED
+CONNECTION='mysql://user_name:password@host_name:port/database_name/table_name';
+
+```
+- On the SQL Server, create a federated table using the following syntax:
+```
+CREATE TABLE federated_table (
+  column1 datatype,
+  column2 datatype,
+  ...
+) ENGINE=FEDERATED
+CONNECTION='mysql://user_name:password@host_name:port/database_name/table_name';
+
+```
+- Once the federated tables have been created on both servers, queries can be made across both databases as if they were a single entity.
+It is important to note that creating a federated database requires advanced knowledge of SQL and server configuration. If you are not familiar with these topics, it is advisable to consult with an expert or qualified professional.
+
+## ¿Cómo se ejecuta?
+
 ### ES
 Para utilizar los archivos de una página web es necesario seguir los siguientes pasos:
 
@@ -25,11 +101,15 @@ Para utilizar los archivos de una página web es necesario seguir los siguientes
 - Abrir la carpeta donde se descomprimió el archivo. En ella se encontrarán todos los archivos necesarios para la página web, como imágenes, hojas de estilo, archivos de JavaScript y otros.
 - Abrir el archivo "index.php", ubicado en la carpeta "[PAGINA WEB](https://github.com/UnTalLGsus/Topicos-BD/tree/main/PAGINA%20WEB).", en un navegador web, como Safari, Chrome, etc.
 
+## How is it run?
+
 ### EN
 
 To use the files of a webpage, it is necessary to follow these steps:
 
--Download or clone the repository of the webpage. This can be done through the Git console or simply downloading the compressed file from the repository page.
--Extract the file into a folder on the computer.
--Open the folder where the file was extracted. In it, you will find all the necessary files for the webpage, such as images, style sheets, JavaScript files, and others.
--Open the "index.php" file, located in the "[WEB PAGE](https://github.com/UnTalLGsus/Topicos-BD/tree/main/PAGINA%20WEB)." folder, in a web browser, such as Safari, Chrome, etc. 
+- Download or clone the repository of the webpage. This can be done through the Git console or simply downloading the compressed file from the repository page.
+- Extract the file into a folder on the computer.
+- Open the folder where the file was extracted. In it, you will find all the necessary files for the webpage, such as images, style sheets, JavaScript files, and others.
+- Open the "index.php" file, located in the "[WEB PAGE](https://github.com/UnTalLGsus/Topicos-BD/tree/main/PAGINA%20WEB)." folder, in a web browser, such as Safari, Chrome, etc. 
+
+
