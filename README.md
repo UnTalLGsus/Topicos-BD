@@ -1,5 +1,13 @@
 # Topicos-BD
 Proyecto Escolar - School project
+## Indice - Index
+- [Introducción - Introduction](https://github.com/UnTalLGsus/Topicos-BD/edit/main/README.md#introducción---introduction)
+- [Requerimientos - Requirements](https://github.com/UnTalLGsus/Topicos-BD/edit/main/README.md#requerimientos)
+- [¿Cómo se ejecuta? - How is it run?](https://github.com/UnTalLGsus/Topicos-BD/edit/main/README.md#cómo-se-ejecuta)
+- [Reportes de pruebas - Test reports](https://github.com/UnTalLGsus/Topicos-BD/edit/main/README.md#cómo-se-ejecuta)
+- [Videos explicativos - Explanatory videos](https://github.com/UnTalLGsus/Topicos-BD/edit/main/README.md#cómo-se-ejecuta)
+
+## Introducción - Introduction
 
 ### ES
 
@@ -112,4 +120,18 @@ To use the files of a webpage, it is necessary to follow these steps:
 - Open the folder where the file was extracted. In it, you will find all the necessary files for the webpage, such as images, style sheets, JavaScript files, and others.
 - Open the "index.php" file, located in the "[WEB PAGE](https://github.com/UnTalLGsus/Topicos-BD/tree/main/PAGINA%20WEB)." folder, in a web browser, such as Safari, Chrome, etc. 
 
+## Reportes de pruebas
 
+### ES
+
+Realizamos pruebas en una página web de productos que hemos creado, que cuenta con una base de datos federada entre MySQL y SQL Server. En esta página hay un sistema CRUD (crear, leer, actualizar, eliminar) para gestionar los productos de la base de datos. Nos propusimos asegurarnos de que la página web funcionara correctamente y de que la base de datos federada estuviera funcionando de manera óptima. Los resultados de las pruebas fueron positivos, por lo que la página web está lista para ser utilizada por el público.
+
+Cada reporte puedes verlos [aquí]().
+
+## Test reports
+
+### EN
+
+We conducted tests on a product website that we created which has a federated database with MySQL and SQL Server. On this website, there is a CRUD (create, read, update, delete) system for managing the products in the database. We wanted to ensure that the website was functioning properly and that the federated database was working as intended. The tests were successful and the website is now ready to be used by the public.
+
+You can see each report [here]().
