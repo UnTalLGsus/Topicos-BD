@@ -6,6 +6,8 @@ Proyecto Escolar - School project
 - [¿Cómo se ejecuta? - How is it run?](https://github.com/UnTalLGsus/Topicos-BD/blob/main/README.md#cómo-se-ejecuta)
 - [Reportes de pruebas - Test reports](https://github.com/UnTalLGsus/Topicos-BD/blob/main/README.md#cómo-se-ejecuta)
 - [Videos explicativos - Explanatory videos](https://github.com/UnTalLGsus/Topicos-BD/blob/main/README.md#cómo-se-ejecuta)
+- [Cronograma - Cronogram](https://github.com/UnTalLGsus/Topicos-BD/blob/main/README.md#cronograma---cronogram)
+- [Cronograma - Cronogram Imagen](https://github.com/UnTalLGsus/Topicos-BD/blob/main/Cronograma.png))
 
 ## Introducción - Introduction
 
@@ -135,3 +137,11 @@ Cada reporte puedes verlos [aquí]().
 We conducted tests on a product website that we created which has a federated database with MySQL and SQL Server. On this website, there is a CRUD (create, read, update, delete) system for managing the products in the database. We wanted to ensure that the website was functioning properly and that the federated database was working as intended. The tests were successful and the website is now ready to be used by the public.
 
 You can see each report [here]().
+
+## Cronograma - cronogram
+<p align="center">
+<img src="Cronograma.png"
+	alt="Cronograma"
+	width="500"
+	style="float: left; margin-right: 10px;" />
+</p>
