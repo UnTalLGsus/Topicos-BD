@@ -7,7 +7,7 @@ Proyecto Escolar - School project
 - [Reportes de pruebas - Test reports](https://github.com/UnTalLGsus/Topicos-BD/blob/main/README.md#cómo-se-ejecuta)
 - [Videos explicativos - Explanatory videos](https://github.com/UnTalLGsus/Topicos-BD/blob/main/README.md#cómo-se-ejecuta)
 - [Cronograma - Cronogram](https://github.com/UnTalLGsus/Topicos-BD/blob/main/README.md#cronograma---cronogram)
-- [Cronograma - Cronogram Imagen](https://github.com/UnTalLGsus/Topicos-BD/blob/main/Cronograma.png))
+- [Cronograma - Cronogram (Imagen)](https://github.com/UnTalLGsus/Topicos-BD/blob/main/Cronograma.png)
 
 ## Introducción - Introduction
 
