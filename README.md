@@ -4,8 +4,7 @@ Proyecto Escolar - School project
 - [Introducción - Introduction](https://github.com/UnTalLGsus/Topicos-BD/blob/main/README.md#introducción---introduction)
 - [Requerimientos - Requirements](https://github.com/UnTalLGsus/Topicos-BD/blob/main/README.md#requerimientos)
 - [¿Cómo se ejecuta? - How is it run?](https://github.com/UnTalLGsus/Topicos-BD/blob/main/README.md#cómo-se-ejecuta)
-- [Reportes de pruebas - Test reports](https://github.com/UnTalLGsus/Topicos-BD/blob/main/README.md#cómo-se-ejecuta)
-- [Videos explicativos - Explanatory videos](https://github.com/UnTalLGsus/Topicos-BD/blob/main/README.md#cómo-se-ejecuta)
+- [Reportes de pruebas - Test reports](https://github.com/UnTalLGsus/Topicos-BD/blob/main/README.md#reportes-de-pruebas)
 - [Cronograma - Cronogram](https://github.com/UnTalLGsus/Topicos-BD/blob/main/README.md#cronograma---cronogram)
 - [Cronograma - Cronogram (Imagen)](https://github.com/UnTalLGsus/Topicos-BD/blob/main/Cronograma.png)
 
