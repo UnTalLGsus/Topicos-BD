@@ -128,7 +128,8 @@ To use the files of a webpage, it is necessary to follow these steps:
 
 Realizamos pruebas en una página web de productos que hemos creado, que cuenta con una base de datos federada entre MySQL y SQL Server. En esta página hay un sistema CRUD (crear, leer, actualizar, eliminar) para gestionar los productos de la base de datos. Nos propusimos asegurarnos de que la página web funcionara correctamente y de que la base de datos federada estuviera funcionando de manera óptima. Los resultados de las pruebas fueron positivos, por lo que la página web está lista para ser utilizada por el público.
 
-Cada reporte puedes verlos [aquí]().
+Cada reporte puedes verlos [aquí](https://github.com/UnTalLGsus/Topicos-BD/tree/main/Reporte%20de%20Pruebas).
+
 Podras ver un video explicativo de las pruebas [aquí](https://youtu.be/bCQX25QAcMY)
 
 ## Test reports
@@ -137,7 +138,8 @@ Podras ver un video explicativo de las pruebas [aquí](https://youtu.be/bCQX25QA
 
 We conducted tests on a product website that we created which has a federated database with MySQL and SQL Server. On this website, there is a CRUD (create, read, update, delete) system for managing the products in the database. We wanted to ensure that the website was functioning properly and that the federated database was working as intended. The tests were successful and the website is now ready to be used by the public.
 
-You can see each report [here]().
+You can see each report [here](https://github.com/UnTalLGsus/Topicos-BD/tree/main/Reporte%20de%20Pruebas).
+
 You can see a video fot this [here](https://youtu.be/bCQX25QAcMY)
 
 ## Cronograma - cronogram
