@@ -10,7 +10,7 @@ Proyecto Escolar - School project
 - [Video sobre el diseño utilizado](https://youtu.be/n8HU50U6HyA)
 - [Video sobre el back end](https://youtu.be/GtKBoLQvKQ4)
 - [Archvio con los algoritmos, pseudocodigos y diagramas de flujo](https://github.com/UnTalLGsus/Topicos-BD/blob/8a207831e622572821112789c9532fd3abc6bd91/Algoritmos,%20pseudocodigos%20y%20diagrmas%20de%20flujo.pdf)
-
+- [Video sobre los algoritmos](https://youtu.be/ftrjnRBpLAY)
 ## Introducción - Introduction
 
 ### ES
